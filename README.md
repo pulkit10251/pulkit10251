@@ -1,4 +1,4 @@
-### Hello forks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello forks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 <img src="PSBanner.png" width="100%"/>
 <div align = "center">
   <a href = "https://www.linkedin.com/in/pulkit10251/">
