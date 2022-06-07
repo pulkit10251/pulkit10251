@@ -1,4 +1,4 @@
-### Hello forks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Hello forks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
 <img src="PSBanner.png" width="100%"/>
 <div align = "center">
   <a href = "https://www.linkedin.com/in/pulkit10251/">
